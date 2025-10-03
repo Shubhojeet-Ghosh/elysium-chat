@@ -16,7 +16,7 @@ Elysium Chat aims to redefine digital communication by combining the **security 
 
 ## 🛠️ Tech Stack (Planned)
 
-- **Backend:** FastAPI | Node.js
+- **Backend:** FastAPI | Node.js | Express.js
 - **Frontend:** Next.js
 - **Database:** MongoDB | Qdrant
 - **AI/ML:** Integration with LLMs for memory + conversation automation
