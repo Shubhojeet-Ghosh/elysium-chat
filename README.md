@@ -1,6 +1,6 @@
-# Elysium Chat
+# Elysium Connect
 
-**Elysium Chat** is a next-generation messaging app that blends **privacy, AI, and automation**.  
+**Elysium Connect** is a next-generation messaging app that blends **privacy, AI, and automation**.  
 With secure end-to-end encryption, users can connect freely while leveraging AI to enhance their conversations.
 
 ## ✨ Features
@@ -12,7 +12,7 @@ With secure end-to-end encryption, users can connect freely while leveraging AI 
 
 ## 🚀 Vision
 
-Elysium Chat aims to redefine digital communication by combining the **security of private messaging** with the **power of AI**, helping users remember, automate, and extend their conversations.
+Elysium Connect aims to redefine digital communication by combining the **security of private messaging** with the **power of AI**, helping users remember, automate, and extend their conversations.
 
 ## 🛠️ Tech Stack (Planned)
 
